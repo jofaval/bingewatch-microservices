@@ -7,7 +7,7 @@ Microservices to track whatever media you're currently watching/reading, or have
 1. [Motivation](#motivation)
 1. [Description](#description)
 1. [Use it!](#use-it)
-1. [TechStack](#techstack)
+1. [Tech Stack](#tech-stack)
 
 ## Motivation
 
@@ -15,7 +15,7 @@ I want to try out gRPC and microservices, the latter are really popular, and the
 
 ## Description
 
-Small PoC using Golang microservices comunnicating in-between with gRPC to track whatever media you're currently watching/reading, or have done in the past.
+Small PoC using Golang microservices communicating in-between with gRPC to track whatever media you're currently watching/reading, or have done in the past.
 
 ## Use it
 
@@ -24,7 +24,7 @@ git clone https://github.com/jofaval/bingewatch-microservices.git
 cd
 ```
 
-## TechStack
+## Tech Stack
 
 - Golang
 - gRPC.io
