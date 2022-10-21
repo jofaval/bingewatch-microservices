@@ -21,7 +21,7 @@ Small PoC using Golang microservices communicating in-between with gRPC to track
 
 ```bash
 git clone https://github.com/jofaval/bingewatch-microservices.git
-cd
+cd bingewatch-microservices
 ```
 
 ## Tech Stack
