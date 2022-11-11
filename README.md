@@ -15,7 +15,7 @@ I want to try out gRPC and microservices, the latter are really popular, and the
 
 ## Description
 
-Small PoC using Golang microservices communicating in-between with gRPC to track whatever media you're currently watching/reading, or have done in the past.
+Small PoC using Golang microservices comunicating in-between with gRPC to track whatever media you're currently watching/reading, or have done in the past.
 
 ## Use it
 
